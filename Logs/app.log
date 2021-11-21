@@ -1,0 +1,4 @@
+2021-11-19 19:04:38,236 INFO c.c.t.FilterLH_TC [main] Open the HomePage
+2021-11-19 19:04:42,246 INFO c.c.t.FilterLH_TC [main] Open the All product link
+2021-11-19 19:04:46,624 INFO c.c.t.FilterLH_TC [main] Filter Low to high applied
+2021-11-19 19:04:48,173 INFO c.c.t.FilterLH_TC [main] Filter low to high Passed

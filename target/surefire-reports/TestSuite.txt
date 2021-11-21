@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 34, Failures: 6, Errors: 0, Skipped: 28, Time elapsed: 3.489 s <<< FAILURE! - in TestSuite
+setup(com.compri.testcases.FilterLH_TC)  Time elapsed: 2.939 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
+setup(com.compri.testcases.GiftCard_TC)  Time elapsed: 0.009 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
+setup(com.compri.testcases.WishList_TC)  Time elapsed: 0.008 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
+setup(com.compri.testcases.ProductSearchVerify_TC)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
+setup(com.compri.testcases.PostalCode_TC)  Time elapsed: 0.004 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
+setup(com.compri.testcases.SignIn_TC)  Time elapsed: 0.005 s  <<< FAILURE!
+java.lang.IllegalStateException: The driver executable does not exist: C:\Users\M1073102\Documents\Eclipse\hybrid\driver\chromedriver.exe
+
